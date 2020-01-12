@@ -1231,4 +1231,8 @@
 			max-height: 60px;
 			filter: invert(100);
 }
+.centerallleft{  margin: auto;
+	width: 25%;float:left;}
+	.centerallright{  margin: auto;
+		width: 25%;float:right;}
 
