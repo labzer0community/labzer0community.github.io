@@ -626,7 +626,7 @@
 
 			ul.icons li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+				padding: 0 0.5em 0 0;
 			}
 
 				ul.icons li:last-child {
@@ -634,7 +634,9 @@
 				}
 
 				ul.icons li .icon:before {
-					font-size: 2em;
+					font-size: 1em;
+					width:100%;
+					float: left;
 				}
 
 		ul.actions {
