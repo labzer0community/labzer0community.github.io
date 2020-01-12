@@ -1,2 +1,2 @@
 # labzer0community
-initial our beloved website hosted on github pages
+#yeah we have a favicon!
